@@ -1,0 +1,76 @@
+
+body,.comment-form input.btn,.work-phase .hover a,.slider-wrapper:before,.slider-wrapper:after,#about,#home,#portfolio,#our-clients,.promo-box,#page-head.style-2{
+	background-color:#222729;
+}
+
+h1,#records h5,#page-head.style-2 h1,.head a,.head-wrapper .head,.post h2,.share h5,.authors h2,.comments h2,.comment-form h2,.post h2 a,#portfolio-single h2,#portfolio-single.style2 h3,#portfolio-single h3{
+	color:#fff;
+}
+p,.blog-catagories li a,.blog-detail p,.post p,.author p, .comment p{
+	color:#a9b2b5;
+}
+.work-phase{
+	background-color:#fff;
+	border:none;
+}
+.work-phase .hover{
+	background-color:#f59343;
+}
+.work-phase .hover a{
+	border-color:#141718;
+}
+.project-filter li,.load-more a{
+	border-color:#3a3e40;
+}
+#about p{
+	color:#585f61;
+}
+
+#team{
+	background-color:#282e31;
+}
+#records{
+	background-color:#22343c;
+}
+
+.post-unit{
+	background-color:#2d3538;
+}
+
+.blog-masonry,.post-unit{
+	border-color:#42484a;
+}
+
+
+.blog-search input,.comment-form input, .comment-form textarea{
+	color:#4d5659;
+}
+
+.blog-search input,.comment-form input, .comment-form textarea,#services,#contact,.blog-search ,.comment-form input, .comment-form textarea{
+	background-color:#141718;
+}
+
+.blog-search ,.comment-form input, .comment-form textarea{
+    border-color:#2c3133;
+}
+.comment-form input.btn{
+	border-color:#3f4446;
+}
+.blog-search button{
+	color:#36393b;
+}
+
+.comment {
+    border-color:#33393b;
+}
+.author h2, .comment h2{
+	color:#f59343;
+}
+.share,.author{
+	background-color:#1c2022;
+	border:none;
+}
+
+.post .share .social-fonts a{
+	color:#21aae1;
+}
