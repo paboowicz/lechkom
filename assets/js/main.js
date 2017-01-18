@@ -222,7 +222,7 @@
         var dataString = 'name=' + name + '&email=' + email + '&subject=' + subject + '&message=' + message;
 
         if (name === '' || !IsEmail(email) || subject === '' || message === '') {
-            $('#valid-issue').html('Please Provide Valid Information').show();
+            $('#valid-issue').html('Wprowadź poprawny email').show();
         } else {
             $.ajax({
                 type: "POST",
@@ -230,7 +230,7 @@
                 data: dataString,
                 success: function () {
                     $('#contactform').hide();
-                    $('#valid-issue').html('Your message has been sent,<BR> We will contact you back with in next 24 hours.').show();
+                    $('#valid-issue').html('Wiadomość została wysłana,<BR> skontaktujemy się z Tobą w ciągu 24 godzin.').show();
                 }
             });
         }

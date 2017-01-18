@@ -1,5 +1,5 @@
 <?php
-$your_email="info@lechkom.pl";
+$your_email="s.lechowicz@lechkom.pl";
 
 if(!empty($_POST))
 {
