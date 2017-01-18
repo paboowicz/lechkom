@@ -2009,7 +2009,7 @@ footer{
 	border:none;
 	margin-bottom:10px;
 	padding-left:20px;
-	text-transform:capitalize;
+	//text-transform:capitalize;
 }
 #contact textarea{
 	height:125px;
